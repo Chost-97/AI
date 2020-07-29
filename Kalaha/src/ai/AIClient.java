@@ -11,7 +11,7 @@ import kalaha.*;
  * This is the main class for your Kalaha AI bot. Currently
  * it only makes a random, valid move each turn.
  * 
- * @author Johan Hagelbäck
+ * @author Om sai teja Chennupati
  */
 public class AIClient implements Runnable
 {
